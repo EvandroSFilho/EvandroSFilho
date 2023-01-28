@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Evandro Santana Filho 👋
+<a href = "mailto:evandrosantana.f@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://instagram.com/evandrosantn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-[![Gmail](https://img.shields.io/badge/evandrosantana.f@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)]() [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/evandrosantn/)
 
 ![Evandro GitHub stats](https://github-readme-stats.vercel.app/api?username=EvandroSFilho&show_icons=true&theme=radical)
 
