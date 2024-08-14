@@ -1,20 +1,12 @@
-### Olá! Eu sou o Evandro Santana Filho 👋
-<a href = "mailto:evandrosantana.f@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/evandrosantn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/evandro-santana-filho-4b6023117/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a>
+# 💫 About Me:
+Olá! Me chamo Evandro Santana Filho, sou um estudante apaixonado por tecnologia que ao longo da jornada descobriu uma fascinação especial pela programação, buscando aprimorar-se cada dia mais. Em busca da minha primeira oportunidade na área de programação estou constantemente buscando inovações e soluções para implementar em meus códigos. 🧑‍💻
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/evandrosantn/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/evandro-santana-filho/) 
 
-![Evandro GitHub stats](https://github-readme-stats.vercel.app/api?username=EvandroSFilho&show_icons=true&theme=radical)
-
-## Tecnologias que eu uso no meu dia
-
-<div style="display: inline_block"><br/>
- <img align="center" alt="html5"src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
- <img align="center" alt="mysql"src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
- <img align="center" alt="javascript"src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-
- ![Snake animation](https://github.com/EvandroSFilho/EvandroSFilho/blob/output/github-contribution-grid-snake.svg)
-
-</div><br/>
-
-Estudante em Análise e Desenvolvimento de Sistemas - UNICESUMAR, e apaixonado por tecnologia 🧑‍💻
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![Evandro GitHub stats](https://github-readme-stats.vercel.app/api?username=EvandroSFilho&show_icons=true&theme=radical)<br/>
+![Evandro GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=EvandroSFilho&theme=darcula&hide_border=false)<br/>
+![Evandro GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=EvandroSFilho&theme=darcula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
